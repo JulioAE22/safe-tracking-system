@@ -91,8 +91,15 @@ delay(100);
 
 ## Project Media
 
-Photos and videos demonstrating the system will be added here.
+Photos and videos demonstrating the system will be added here.## Project Photos
 
+### Current Prototype
+
+![Safe Money Tracking System](IMG_4103.jpeg)
+
+### System Interface
+
+![LCD and Controls](IMG_4158.jpeg)
 ## Future Improvements
 
 - Improve the physical interface
